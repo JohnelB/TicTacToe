@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
 import confetti from "canvas-confetti";
-import "../styles/TicTacToeApp.css";
 
 const initialBoard = Array(9).fill(null);
 
